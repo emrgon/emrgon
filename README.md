@@ -9,6 +9,6 @@ I am an aspiring engineer with a strong background in programming and problem-so
 - **Data Analytics:** Currently learning Python for applications in data analytics and data science, focusing on machine learning.
 
 ### Interests
-- **Go:** Amateur player (2 kyu).
+- **Go:** Amateur player (board game)
 - **Physical Activity:** Regular gym-goer.
 - **Puzzles:** Enjoy solving puzzles and challenges.
